@@ -1,0 +1,45 @@
+.container{
+    background-color: rgb(57, 57, 57);
+    color: rgb(255, 255, 255);
+    width: 400px;
+    margin-left:auto ;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    border: 2px solid rgb(88, 81, 228);
+    border-radius: 30px;
+}
+body{background-color: rgb(59, 58, 58)}
+
+
+.tarefas li {
+    background-color: rgb(112, 108, 108);
+    padding: 10px;
+    padding-top: 10px;
+    border-radius: 102px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    height: 20px;
+    color: rgb(255, 252, 252);
+    line-height:18px;
+    border: 5px rgb(60, 60, 60) solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.btnExcluir,.excluir {
+    background-color: rgb(88, 81, 228);
+    border-radius: 10rem;
+    border:1px solid rgba(236, 0, 0, 0)  ;
+    width:38px ;
+    height: 38px;
+    cursor: pointer;
+    color: white;
+    width: 2rem; height: 2.1rem;
+}
+
+.btn-tarefa{width: 2rem; height: 2rem; border-radius: 2rem; border: none; background-color:rgb(88, 81, 228) ; color: white;}
+
+.input-Tarefas{background-color: rgb(255, 255, 255); width: 50%; height: 20px;}
