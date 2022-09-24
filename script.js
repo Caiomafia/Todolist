@@ -47,17 +47,18 @@ btnTarefa.addEventListener('click' , function(){
 
 
 
-document.addEventListener('click' ,function(e){
-    const el = e.target;
-    if(el.classList.contains('btnExcluir')){
-        el.parentElement.remove();
-    }
-})
-
-document.addEventListener('click' ,function(e){
-    const el = e.target;
-    if(el.classList.contains('excluir')){
-        tarefas.innerHTML='';
-    }
-})
-   
+             document.addEventListener('click' ,function(e){
+                const el = e.target;
+                if(el.classList.contains('btnExcluir')){
+                    el.parentElement.remove();
+                }
+            })
+            
+            document.addEventListener('click' ,function(e){
+                const el = e.target;
+                if(el.classList.contains('excluir')){
+                    tarefas.innerHTML='';
+                }
+            })
+               
+            
