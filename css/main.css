@@ -7,10 +7,14 @@
   color: #333;
 }
 
-body {
-  background-image: url("https://i.pinimg.com/originals/0e/b1/56/0eb15636563ecc2920056a5dd6e496c5.gif");
-  background-position: center;
-  background-size: cover;
+
+
+
+
+html {
+  background: rgb(5,5,5);
+background: linear-gradient(168deg, rgba(5,5,5,1) 14%, rgba(224,170,170,1) 36%, rgba(235,0,0,1) 99%, rgba(151,186,218,1) 100%);
+ background-repeat:no-repeat ;
 }
 
 button {
