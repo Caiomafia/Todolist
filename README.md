@@ -16,5 +16,5 @@ Esse e um projeto de lista de tarefas 2.0 , possui melhorias de uma antiga lista
 
 
 
-<img src="css/TodolistTeste.gif">
+
 
