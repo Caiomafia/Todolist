@@ -14,3 +14,7 @@ Esse e um projeto de lista de tarefas 2.0 , possui melhorias de uma antiga lista
 ## Mobile 
 <img src="css/Todolist.gif">
 
+
+
+<img src="css/TodolistTeste.gif">
+
