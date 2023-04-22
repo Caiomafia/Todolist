@@ -7,7 +7,7 @@
 Este projeto é uma lista de tarefas simples criada usando as tecnologias web comuns, como JavaScript, HTML e CSS. O objetivo do projeto é permitir que o usuário adicione, marque e exclua tarefas em uma lista em tempo real.
 
 
-
+<img src="css/Todolsit.gif">
 
 ## Funcionalidades
 
